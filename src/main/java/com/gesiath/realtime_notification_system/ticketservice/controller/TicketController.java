@@ -1,7 +1,7 @@
-package com.gesiath.realtime_notification_system.controller;
+package com.gesiath.realtime_notification_system.ticketservice.controller;
 
-import com.gesiath.realtime_notification_system.model.Ticket;
-import com.gesiath.realtime_notification_system.service.TicketService;
+import com.gesiath.realtime_notification_system.ticketservice.entity.Ticket;
+import com.gesiath.realtime_notification_system.ticketservice.service.TicketService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

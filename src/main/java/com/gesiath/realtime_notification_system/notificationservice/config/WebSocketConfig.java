@@ -1,4 +1,4 @@
-package com.gesiath.realtime_notification_system.config;
+package com.gesiath.realtime_notification_system.notificationservice.config;
 
 import jakarta.annotation.Nonnull;
 import org.springframework.context.annotation.Configuration;

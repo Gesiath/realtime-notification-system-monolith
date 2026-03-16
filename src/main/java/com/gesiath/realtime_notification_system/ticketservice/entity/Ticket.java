@@ -1,4 +1,4 @@
-package com.gesiath.realtime_notification_system.model;
+package com.gesiath.realtime_notification_system.ticketservice.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

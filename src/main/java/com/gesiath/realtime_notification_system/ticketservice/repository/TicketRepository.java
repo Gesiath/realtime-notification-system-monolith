@@ -1,6 +1,6 @@
-package com.gesiath.realtime_notification_system.repository;
+package com.gesiath.realtime_notification_system.ticketservice.repository;
 
-import com.gesiath.realtime_notification_system.model.Ticket;
+import com.gesiath.realtime_notification_system.ticketservice.entity.Ticket;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

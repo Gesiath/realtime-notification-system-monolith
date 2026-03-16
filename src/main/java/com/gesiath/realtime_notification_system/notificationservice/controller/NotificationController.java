@@ -1,6 +1,6 @@
-package com.gesiath.realtime_notification_system.controller;
+package com.gesiath.realtime_notification_system.notificationservice.controller;
 
-import com.gesiath.realtime_notification_system.service.NotificationService;
+import com.gesiath.realtime_notification_system.notificationservice.service.NotificationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
