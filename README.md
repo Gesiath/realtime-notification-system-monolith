@@ -53,7 +53,7 @@ Client receives real-time notification
 
 ---
 
-## ⚙️ Getting Started
+## 🛠 Getting Started
 
 ### 1. Run Kafka
 
@@ -146,7 +146,7 @@ You can test the complete flow using:
 
 ---
 
-## 👨‍💻 Author
+## 👨💻 Author
 
 Project developed as part of backend portfolio.
 
