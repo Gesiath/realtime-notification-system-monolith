@@ -2,7 +2,7 @@
 
 Real-time event-based notification system using Kafka y WebSockets.
 
-⚠️ This is the initial monolithic version of the project.
+⚠️ This is the initial monolithic version of the project.  
 👉 Coming soon: a microservices-based version.
 
 ---
